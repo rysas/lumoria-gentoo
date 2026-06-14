@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>rysas@mail.naimad.dev</email>
+		<name>Damian Miller</name>
+	</maintainer>
+	<longdescription lang="en">
+		Lumoria is a native Linux installer and launcher for Final Fantasy XI.
+		It can manage Wine prefixes, runners, DXVK, Windower, and runtime
+		components from a single GTK application.
+	</longdescription>
+	<upstream>
+		<remote-id type="github">Windower/Lumoria</remote-id>
+		<bugs-to>https://github.com/Windower/Lumoria/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
